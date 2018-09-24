@@ -1,0 +1,66 @@
+html, body{
+	background-color: #00004d;
+	font-family: Avant Garde,sans-serif;
+	margin: 0;
+}
+
+header{
+	background-image: url('https://vignette.wikia.nocookie.net/x-men/images/a/ad/Storm_Unleashed_by_windriderx23.jpg/revision/latest?cb=20170123222608');
+	background-repeat: repeat;
+	background-color: #00004d;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: gold;
+}
+
+header img{
+	border-radius: 150px;
+    width: 300px;
+    border: 13px solid #cccccc
+}
+
+.content{
+	color: gold;
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px; 
+}
+
+img.big-image{
+	max-width: 100%;
+}
+p.caption{
+	font-size: 16px;
+	color: grey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: purple;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #595959;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
